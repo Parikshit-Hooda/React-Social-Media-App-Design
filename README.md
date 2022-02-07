@@ -1,2 +1,2 @@
-# React-Social-Media-App-Design
+# React-Movie-Watchlist-App
 Created with CodeSandbox
